@@ -7,6 +7,7 @@ import java.util.HashMap;
 v1.0修改后提交相应的信息
 V2.0 提交修改bug
 V2.0提交bug2
+V2.0修改提交3
  */
 public class ComparaleMap<K,V>  implements Comparable{
     HashMap<K,V> map = new HashMap<>();
