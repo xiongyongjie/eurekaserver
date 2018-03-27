@@ -2,7 +2,9 @@ package com.x;
 
 import java.util.Date;
 import java.util.HashMap;
-
+/*
+分支测试
+ */
 public class ComparaleMap<K,V>  implements Comparable{
     HashMap<K,V> map = new HashMap<>();
     private String orderType;
