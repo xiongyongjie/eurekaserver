@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eclient/eclient.iml" filepath="$PROJECT_DIR$/eclient/eclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eserver/eserver.iml" filepath="$PROJECT_DIR$/eserver/eserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eurekaserver/examples/examples.iml" filepath="$PROJECT_DIR$/../eurekaserver/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignclient/feignclient.iml" filepath="$PROJECT_DIR$/feignclient/feignclient.iml" />
+    </modules>
+  </component>
+</project>
